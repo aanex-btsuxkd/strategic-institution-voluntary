@@ -1,5 +1,5 @@
 [versions]
-ministry = "2.3.13"
+ministry = "3.4.3"
 
 [libraries]
 ministry = { module = "io.ktor:ktor-server-call-logging", version.ref = "ministry" }
